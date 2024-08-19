@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  /* border: 0.5px solid red;  */
+}
+
+:root {
+  scroll-behavior: smooth;
+  font-family: "PT Sans", sans-serif;
+
+  --header-background-color: rgb(42, 42, 42);
+  --header-networks-background-color: rgb(255, 255, 255);
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
